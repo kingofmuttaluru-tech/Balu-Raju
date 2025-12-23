@@ -1,0 +1,7 @@
+{
+  "name": "Gagan Diagnostic Centre",
+  "description": "A comprehensive healthcare portal for patients to book tests, track sample collection, and download diagnostic reports, with a dedicated admin management dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
